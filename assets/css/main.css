@@ -2443,3 +2443,19 @@ input, select, textarea {
 					}
 
 	}
+  
+.fa-stack-1x {
+    color:white;
+}
+
+.icon-mail {
+   color:#3b5998;
+}
+
+.icon-github {
+    color:#181818;
+}
+
+.icon-wa{
+    color:#25d366;
+}
